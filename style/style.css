@@ -1,0 +1,98 @@
+
+body{
+    background-color: black;
+}
+
+
+/*.image-section>img{
+       height: 200px;
+    width:200px;
+    border:10px solid red;
+}*/
+
+.link-section{
+   /* border: 10px solid greenyellow;*/
+   /* margin: 5px 10px 15px 20px;*/
+   margin-bottom: 30px;
+   margin-top: 20px;
+}
+
+/*.link-section>a{
+text-decoration: none;
+font-size:150%;
+color:red;
+border: 5px dashed green;
+padding:0px 5px 0px 5px;
+margin:10px 20px 15px 13px;
+}*/
+
+/*.link-section>a:hover{
+    background-color: crimson;
+    border: 2px solid blueviolet;
+    color: black;
+}*/
+
+.link-section>.link1{
+    text-decoration: none;
+    font-size: xx-large;
+    color: mediumvioletred;
+    margin: 0px 0px 0px 0vmax;
+    padding:0px 5px 0px 5px;
+}
+
+.link-section>.link2{
+    text-decoration:blue;
+    font-size:medium;
+    color: indigo;
+    border: 4px solid gold;
+    margin:0px 10vw 5vmin 10vmax;
+    padding: 2px 1rem;
+}
+
+.link-section>.link3{
+    text-decoration-color: red;
+    font-size: 3rem;
+    font-style:italic;
+    color:lime;
+    border:4px  darkred;
+    border-color: purple;
+    border-style: dotted;
+    margin:0px 10vw 5vmin 10vmax;
+    padding: 2px 1rem;
+}
+
+.link-section>.link4{
+    text-decoration-color: rgb(205, 63, 98);
+    text-decoration-line: overline;
+    font-size: x-large;
+    color:magenta;
+    margin: 0px 0px 0px 10vmax;
+    padding: 2px 1rem;
+}
+
+.image-section{
+   /*border:10px solid green*/
+}
+
+.image-section>.pic1{
+    height: 300px;
+    width: 25%;
+    border:10px solid cyan;
+    border-style: dotted;
+    margin: 0px 10px;
+}
+
+.image-section>.pic2{
+    height: 40vmax;
+    width:25%;
+    border:10px solid blue;
+    margin:0px 50px;
+}
+
+.image-section>.pic3{
+    height:400px;
+    width:20rem;
+    border:10px solid brown;
+    border-style: double;
+    margin: 0px 50px;
+    }
